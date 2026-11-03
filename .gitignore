@@ -1,0 +1,5 @@
+out/
+local.mk
+*.mp4
+.DS_Store
+.boost/
